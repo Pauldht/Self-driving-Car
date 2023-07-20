@@ -2,6 +2,7 @@
 
 * [How to Build](#how-to-build)
 * [General Info](#general-info)
+* [Demonstration](#demonstration)
 
 ## How to Build
 
